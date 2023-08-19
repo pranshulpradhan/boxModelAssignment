@@ -1,0 +1,65 @@
+*{
+    box-sizing: border-box;
+}
+
+#mainBox{
+    border: 2px solid red;
+    height: 400px;
+    width: 500px;
+    padding-top: 15px;
+}
+
+#first{
+    height: 70px;
+    width: 475px;
+    border: 2px solid red;
+    margin: 20px 10px;
+}
+
+h1{
+    padding: 5px;
+}
+
+#second{
+    height: 100px;
+    width: 475px;
+    border: 2px solid red;
+    margin: 20px 10px;
+}
+
+second>p{
+    padding-left: 10px;
+}
+
+#third{
+    height: 100px;
+    width: 475px;
+    border: 2px solid red;
+    margin: 10px 10px;
+}
+
+li{
+    height: 35px;
+    width: 460px;
+    border: 2px solid red;
+    margin-left:20px;
+    padding: 5px;
+}
+
+ul{
+    margin-left: -55px;
+}
+
+button{
+    border: 2px solid red;
+    padding: 1px;
+}
+
+a{
+    border: 2px solid red;
+    padding: 1px;
+}
+
+p{
+    padding: 5px;
+}
